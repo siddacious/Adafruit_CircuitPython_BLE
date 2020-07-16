@@ -1,4 +1,5 @@
 // expanded from the minified version:  https://droid.bap.dev/main-es2015.8985822994dac99e631e.js
+// https://medium.com/@baptistelaget/controlling-disneys-droids-from-droid-depots-with-webbluetooth-febbabe50587
 // working site: https://droid.bap.dev/
 // fun starts around line  6136; search for 09b600a0
 (window.webpackJsonp = window.webpackJsonp || []).push([[1], {
